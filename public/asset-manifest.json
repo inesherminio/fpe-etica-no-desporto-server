@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87a5a6f0.chunk.css",
+    "main.js": "/static/js/main.ae233f1a.chunk.js",
+    "main.js.map": "/static/js/main.ae233f1a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.861e15c2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.861e15c2.js.map",
+    "static/css/2.a75f5a2c.chunk.css": "/static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.7b23555e.chunk.js": "/static/js/2.7b23555e.chunk.js",
+    "static/js/2.7b23555e.chunk.js.map": "/static/js/2.7b23555e.chunk.js.map",
+    "static/js/3.268cb3c2.chunk.js": "/static/js/3.268cb3c2.chunk.js",
+    "static/js/3.268cb3c2.chunk.js.map": "/static/js/3.268cb3c2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a75f5a2c.chunk.css.map": "/static/css/2.a75f5a2c.chunk.css.map",
+    "static/css/main.87a5a6f0.chunk.css.map": "/static/css/main.87a5a6f0.chunk.css.map",
+    "static/js/2.7b23555e.chunk.js.LICENSE.txt": "/static/js/2.7b23555e.chunk.js.LICENSE.txt",
+    "static/media/esgrima1.97b0d48b.jpg": "/static/media/esgrima1.97b0d48b.jpg",
+    "static/media/esgrima2.06754079.jpg": "/static/media/esgrima2.06754079.jpg",
+    "static/media/logo-FPE.e842fb35.png": "/static/media/logo-FPE.e842fb35.png",
+    "static/media/logo-pned.c838dd55.png": "/static/media/logo-pned.c838dd55.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.861e15c2.js",
+    "static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.7b23555e.chunk.js",
+    "static/css/main.87a5a6f0.chunk.css",
+    "static/js/main.ae233f1a.chunk.js"
+  ]
+}
