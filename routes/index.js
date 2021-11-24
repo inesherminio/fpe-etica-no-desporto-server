@@ -8,7 +8,7 @@ router.get("/", (req, res, next) => {
 router.post("/addScore", (req, res, next) => {
   const { totalScore } = req.body;
   Score.create({ totalScore })
-    .then((score) => res.json("New score added"))
+    .then((score) => res.json("New score added to DB"))
     .catch((err) => next(err));
 });
 
